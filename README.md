@@ -1,4 +1,4 @@
-# Duckberry Pi Zero // USB Rubber Ducky on the Raspberry Pi Zero (not Zero W), dubbed by myself the Raspberry Pi Zero nW (non-wireless)
+# Duckberry Pi Zero // USB Rubber Ducky on the Raspberry Pi Zero (not Zero W)
 
 Version 1.0
 
